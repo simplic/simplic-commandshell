@@ -54,7 +54,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Simplic.Lexer, Version=6.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Simplic.CoreLib.6.0.0\lib\net451\Simplic.Lexer.dll</HintPath>
+      <HintPath>..\packages\Simplic.Lexer.6.0.0\lib\net451\Simplic.Lexer.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
